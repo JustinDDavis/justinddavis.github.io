@@ -16,7 +16,7 @@ analytics:
   google:                   # google analytics
   cloudflare:               # cloudflare analytics
   umami:
-    script: https://u.tarrex.com/u.js                # umami analytics script src (Replace it with your own config)
+    script: https://analytics.umami.is/script.js             # umami analytics script src (Replace it with your own config)
     website_id: 548fab0b-63b1-4ce5-b26d-3ed966998009 # umami analytics website id (Replace it with your own config)
     domains: justinddavis.github.io,justinddavis.com   # umami analytics domains (Replace it with your own config)
 description:
